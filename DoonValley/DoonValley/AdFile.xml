@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Images/Roti.jpeg</ImageUrl>
+    <AlternateText>C-sharpcorner Home Page</AlternateText>
+    <width>100%</width>
+    <Impressions>1</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/Daal.jpeg</ImageUrl>
+    <AlternateText>C-sharpcorner Home Page</AlternateText>
+    <width>100</width>
+    <Impressions>2</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/Samosa.jpg</ImageUrl>
+    <AlternateText>C-sharpcorner Home Page</AlternateText>
+    <width>100</width>
+    <Impressions>2</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/PaneerP.jpg</ImageUrl>
+    <AlternateText>C-sharpcorner Home Page</AlternateText>
+    <width>100</width>
+    <Impressions>2</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+  
+</Advertisements>
